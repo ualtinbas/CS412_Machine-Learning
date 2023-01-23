@@ -1,6 +1,8 @@
 # part2
  CS412 project repository
 
+The latest and final version of the project can be found under the file "CS412_Project_bcagiltay.ipynb"
+
 This project additionally has large files filled with json entities that it reads from. These files can be found here:
 http://www.onurvarol.com/Annotation-CS412-202201/
 
@@ -13,8 +15,4 @@ An example of one of the json entities is provided under "test.json"
 We are using the following external resource to process the comments of our tweets:
 https://kubrakurt.medium.com/python-ile-film-yorumlar%C4%B1n%C4%B1n-duygu-analizi-250870ee175c
 
-TODO:
-    address 1.1.2.5 so that it is future proofed
-
-    modify 2.1.2. so that it contains more classifiers
-    modify 2.2.2. so that it contains more classifiers
+Big thanks to my classmate Uğurhan Altınbaş, without his help this project would not have been nearly as enjoyable nor successful.
