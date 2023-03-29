@@ -15,4 +15,4 @@ An example of one of the json entities is provided under "test.json"
 We are using the following external resource to process the comments of our tweets:
 https://kubrakurt.medium.com/python-ile-film-yorumlar%C4%B1n%C4%B1n-duygu-analizi-250870ee175c
 
-Big thanks to my classmate Uğurhan Altınbaş, without his help this project would not have been nearly as enjoyable nor successful.
+Big thanks to my classmate [Uğurhan Altınbaş](https://github.com/ualtinbas), without his help this project would not have been nearly as enjoyable nor successful.
